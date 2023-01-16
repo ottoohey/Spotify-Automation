@@ -107,11 +107,3 @@ function updateRecentlyLikedPlaylist(access_token) {
         UrlFetchApp.fetch(addSongsURL, addSongsOptions);
     };
 }
-
-
-
-
-
-
-
-
